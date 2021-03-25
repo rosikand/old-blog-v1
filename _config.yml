@@ -5,8 +5,8 @@ header-img: img/stanford-banner.jpeg
 email: rsikand@stanford.edu
 description: "Hi! Welcome to my blog! I am a CS (AI) undergraduate at Stanford! Sharing what I learn along the way."
 keyword: "rohan sikand, artificial intelligence, programming, philosophy, cryptocurrency, software development, python, machine learning"
-url: "https://rosikand.github.io/blog/"              # your host, for absolute URL
-baseurl: "blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://rosikand.github.io"              # your host, for absolute URL
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
