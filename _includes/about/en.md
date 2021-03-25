@@ -14,3 +14,4 @@ Some things to add:
 - SEO stuff 
 - Add Disqus comments 
 - Profile picture 
+- Favicon
