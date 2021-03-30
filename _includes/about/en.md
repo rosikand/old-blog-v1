@@ -12,6 +12,7 @@ Some things to add:
 - an interactive page/spreadsheet that visitors of this site can sign 
 - A link to personal website (and SNS logo in footer on all pages) 
 - SEO stuff 
-- Add Disqus comments 
+- Add Disqus or Utterance comments 
 - Profile picture 
 - Favicon
+- Fix search tool 
