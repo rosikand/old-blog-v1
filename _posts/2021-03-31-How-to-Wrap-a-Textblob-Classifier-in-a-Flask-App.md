@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "How to Wrap a Textblob Classifier in a Flask App"
-subtitle:   " \"Deploy your Textblob classifier on the web!\""
+subtitle:   "Deploy your Textblob classifier on the web!"
 date:       2021-03-31 12:00:00
 author:     "Rohan Sikand"
 header-style: text 
