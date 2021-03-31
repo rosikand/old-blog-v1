@@ -10,9 +10,7 @@ tags:
     - Tutorials
 ---
 
-# How to Wrap a Textblob Classifier in a Flask App
-
-### Introduction
+## Introduction
 
 Textblob. A Python library for natural language processing. A simple one—but one that spans many features. A while back, I was working on an extension project for my computer science class. The assignment itself consisted of working with strings—but we are allowed to create our own extensions. So I decided to build a political bias classifier that can classify sequences of text as either partisan or neutral. Without much NLP background behind me, I was fortunate enough to come across Textblob. Within minutes, I was able to setup a rough outline of what needed to be done. I would love to talk more about the details behind it, but that isn't the purpose of this post. Instead, we will focus on how to deploy your Textblob classifier using Flask—a web-routing microframework for Python. Fast forward a few months to the present time, I wanted to build a little demo for it. It was a simple program: **a sequence of text is inputted** and **a predicted label is outputted.** Since the program was written in Python, and I much prefer writing Python than Javascript, I decided to build the web application using Python. For the purposes of this project, Flask was indeed the perfect fit. 
 
