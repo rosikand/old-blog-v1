@@ -87,7 +87,7 @@ All we have left to do is to make a prediction on `txt` and return that predicti
 ```python
 def predict(txt):
 	load_model()
-	prediction loaded_model.classify(txt)
+	prediction = loaded_model.classify(txt)
 	return prediction 
 ```
 
