@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      "How to Wrap a Textblob Classifier in a Flask App"
@@ -10,7 +9,6 @@ catalog: true
 tags:
     - Tutorials
 ---
-```
 
 >  This is a "cheatsheet" style guide/reference to the PyTorch deep learning framework. 
 
