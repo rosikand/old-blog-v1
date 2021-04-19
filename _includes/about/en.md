@@ -9,10 +9,9 @@ Hi! My name is Rohan Sikand and I am an undergraduate student at Stanford Univer
 
 
 Some things to add: 
-- an interactive page/spreadsheet that visitors of this site can sign 
 - A link to personal website (and SNS logo in footer on all pages) 
 - SEO stuff 
-- Add Disqus or Utterance comments 
+- Add Disqus or Utterance comments (or https://fastcomments.com/) 
 - Profile picture 
-- Favicon
 - Fix search tool 
+- Categories along with tags 
