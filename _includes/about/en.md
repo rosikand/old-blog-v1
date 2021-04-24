@@ -15,3 +15,6 @@ Some things to add:
 - Profile picture 
 - Fix search tool 
 - Categories along with tags 
+
+
+Side note: As I sift through my thoughts and notes regarding what to write/post to this blog, I seem to have a fundamental concern to which I cannot answer to: I have ideas for longer posts, but I also want to be able to post shorter microblog like thoughts. Should I separate those two and have them linked in two different places respectively? Or do I just use this blog as a sort of inbox for all my internal writings no matter the category? My initial thought is to have essentially two separate feeds under one link. I am not sure yet so I may experiment with a little bit of everything.  
