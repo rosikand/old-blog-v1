@@ -1,7 +1,17 @@
-# TIL: Voting Systems: Ranked-Choice Voting and Quadratic Voting
+---
+layout:     post
+title:      "TIL: Voting Systems: Ranked-Choice Voting and Quadratic Voting"
+date:       2021-04-29 12:01:00
+author:     "Rohan Sikand"
+header-style: text 
+catalog: false
+tags:
+    - Today I learned
+---
+
 
 In my economics class today, we were discussing how we can best uphold the notions of democracy. We, of course, talked extensively about the electoral college, as well as, the popular vote. In fact, most of the debate was about these two systems. Eventually, we got to a point where other, more innovative systems were introduced. The cause of this result? Mainly the points brought up about the significant issues with majority voting. Particularly, that in a majority voting setting, the minority half is completely left out of the equation and that the majority (even if they win by a mere 0.1%) has all the power. This is seen both through the electoral college (at a state level) and the popular vote (at a national level). More so, in congress, if a bill was being voted on that is a serious social issue, majority voting could lead to allowing the majority to negatively and harmfully impact the minority. There are many more problems with majority voting, but these were the protruding ones. As such, our discussion lead into alternative ways of voting other than the mainstream ones. Well, I am sure many could have guessed what would be mentioned next: ranked choice voting (also referred to as instance runoff voting). While I won't go into the technical details here, ranked choice voting suffers from one big problem: the center-squeeze effect (see [here](https://electionscience.org/library/the-center-squeeze-effect/) and [here](https://electowiki.org/wiki/Center_squeeze)). While the main proposition to fixing this problem is to use approval voting, I think the intricacies of quadratic voting are also interesting. 
 
-**Quadratic voting is like a vector; not only does a voter have the ability to express the direction of their vote, but also the magnitude**. ****More definitively, each voter is allocated a certain amount of "tokens" that they can then spend on voting for candidates. They can allocate more tokens to a specific candidate, meaning that they prefer said candidate strongly (see how magnitude comes into play). Of course, that means they have less tokens now to spend on other candidates. This infographic (from [here](https://medium.com/eximchain/what-makes-quadratic-voting-an-effective-democratic-voting-mechanism-d7a555de8f6b)) describes quadratic voting visually: 
+**Quadratic voting is like a vector; not only does a voter have the ability to express the direction of their vote, but also the magnitude**. More definitively, each voter is allocated a certain amount of "tokens" that they can then spend on voting for candidates. They can allocate more tokens to a specific candidate, meaning that they prefer said candidate strongly (see how magnitude comes into play). Of course, that means they have less tokens now to spend on other candidates. This infographic (from [here](https://medium.com/eximchain/what-makes-quadratic-voting-an-effective-democratic-voting-mechanism-d7a555de8f6b)) describes quadratic voting visually: 
 
-![TIL%20Voting%20Systems%20Ranked-Choice%20Voting%20and%20Quadra%20736870813eee487f8440d34d356af621/Untitled.png](TIL%20Voting%20Systems%20Ranked-Choice%20Voting%20and%20Quadra%20736870813eee487f8440d34d356af621/Untitled.png)
+![infographic image](https://user-images.githubusercontent.com/57341225/116612061-13613380-a905-11eb-814b-985f8634eca3.png)
