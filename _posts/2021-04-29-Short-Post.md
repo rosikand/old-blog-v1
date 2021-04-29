@@ -4,7 +4,6 @@ title:      "Short Post"
 subtitle:   "Just a test"
 date:       2021-04-29 12:00:00
 author:     "Rohan Sikand"
-header-style: text 
 catalog: false
 tags:
     - Tutorials
