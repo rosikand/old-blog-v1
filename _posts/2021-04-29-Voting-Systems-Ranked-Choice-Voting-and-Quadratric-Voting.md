@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TIL: Voting Systems: Ranked-Choice Voting and Quadratic Voting"
+title:      "Voting Systems: Ranked-Choice Voting and Quadratic Voting"
 date:       2021-04-29 12:01:00
 author:     "Rohan Sikand"
 header-style: text 
