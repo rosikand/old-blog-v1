@@ -37,7 +37,7 @@ With those requirements, I did some digging: it seems that the best option at th
 ## **Future**
 
 - Drawing figures using TikZ, PSTricks, Asymptote, [Xy](https://tug.org/applications/Xy-pic/) (even [typesetting automata](https://web.ma.utexas.edu/users/a.debray/lecture_notes/using_xy.pdf)!) or [Inkscape](https://castel.dev/post/lecture-notes-2/).
-- Pre-defined [snippets](https://castel.dev/post/lecture-notes-1/) 
+- Pre-defined [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) like used in [this workflow](https://castel.dev/post/lecture-notes-1/). 
 - Something that will allow me to add images easily.
 - Notion or Markdown to LaTeX converter (that actually works for my purposes).
 - Writing LaTeX on this blog. 
