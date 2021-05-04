@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "My Current LaTeX Workflow: Using LaTeX with VSCode"
+title:      "My Current LaTeX Workflow: Using LaTeX with VS Code"
 date:       2021-05-04 12:01:00
 author:     "Rohan Sikand"
 header-style: text 
@@ -28,15 +28,16 @@ With those requirements, I did some digging: it seems that the best option at th
 
 **My current LaTeX workflow is as follows:**
 
-- VSCode as my editor. The extensions that make this work are [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) (which powers most of the stuff, such as the PDF viewer) and [LaTeX language support](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support).
+- VS Code as my editor. The extensions that make this work are [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) (which powers most of the stuff, such as the PDF viewer) and [LaTeX language support](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support).
 - [Mathpix](https://mathpix.com/) for snapping equations from lecture slides and such. Though, you are only offered a limited number of snips unless you pay a monthly subscription fee.
     - Also occasionally use [this](https://www.codecogs.com/latex/eqneditor.php).
 - [MacTex](https://tug.org/mactex/) for native language support.
 - [Evan Chen's style file](https://github.com/vEnhance/dotfiles/blob/main/texmf/tex/latex/evan/evan.sty) which I use for my notes.
 
-## **Future**:
+## **Future**
 
-- Drawing figures using TikZ, PSTricks, Asymptote, or [Inkscape](https://castel.dev/post/lecture-notes-2/).
+- Drawing figures using TikZ, PSTricks, Asymptote, [Xy](https://tug.org/applications/Xy-pic/) (even [typesetting automata](https://web.ma.utexas.edu/users/a.debray/lecture_notes/using_xy.pdf)!) or [Inkscape](https://castel.dev/post/lecture-notes-2/).
+- Pre-defined [snippets](https://castel.dev/post/lecture-notes-1/) 
 - Something that will allow me to add images easily.
 - Notion or Markdown to LaTeX converter (that actually works for my purposes).
 - Writing LaTeX on this blog. 
