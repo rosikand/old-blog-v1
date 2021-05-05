@@ -34,6 +34,11 @@ With those requirements, I did some digging: it seems that the best option at th
 - [MacTex](https://tug.org/mactex/) for native language support.
 - [Evan Chen's style file](https://github.com/vEnhance/dotfiles/blob/main/texmf/tex/latex/evan/evan.sty) which I use for my notes.
 
+On a good day, this would be the optimal workflow (this is mostly just a note to myself): 
+1. Read over lecture slides/textbook before lecture. Take notes on these. Mainly, get the gist of the content and jot down main definitions in notes (this would allow you to focus more on paying attention during the actual lecture instead of writing down these definitions). 
+2. Attend lecture, pay attention, and ask questions (or jot down any questions you think of). Asking questions is a key to learning well because it leads you to understanding concepts you didn't know well enough. Fill in your notes. Though this time around, you should focus on writing down thoughts that come to your mind, reflections, embodiments of definitions, etc. rather than rote copying definitions from the board which should have already been in your notes via step 1. 
+3. Arguably the most important step: reflect thoroughly on what you learned. Do a five minute pass over your notes and try to summarize the content. Maybe try to think about how you might explain such a topic to a layman unfamilar with the field ([Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230)). Then, create a list of [atomic](http://augmentingcognition.com/ltm.html) flashcard-like questions for the purposes of active recall and spaced repitition (e.g. through [Anki](https://apps.ankiweb.net/)). 
+
 ## **Future**
 
 - Drawing figures using TikZ, PSTricks, Asymptote, [Xy](https://tug.org/applications/Xy-pic/) (even [typesetting automata](https://web.ma.utexas.edu/users/a.debray/lecture_notes/using_xy.pdf)!) or [Inkscape](https://castel.dev/post/lecture-notes-2/).
