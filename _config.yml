@@ -78,7 +78,7 @@ ga_domain: rosikand.github.io/blog
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stanford '24 | CS (AI) | Sharing what I learn along the way!"
-sidebar-avatar: /img/rohan-profile-pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/rohan-profile-pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
