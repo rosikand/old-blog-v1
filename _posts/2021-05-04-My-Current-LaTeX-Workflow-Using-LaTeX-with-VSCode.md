@@ -18,6 +18,7 @@ I first heard of LaTeX back in high school when I began writing technical report
 - Fast compile time to PDF output.
 - Semi-autocompile (more optional than necessary but good to have).
     - Note: by semi-autocompile I mean either real time live updates when you type (unlikely to find such a thing with LaTeX) or, more realistically, when saving the file.
+    - I also recently came across [Texpad](https://www.texpad.com/) which has live preview (so it updates automatically while you type!). 
 - Autocomplete.
 - Nice editor (smooth, easy on the eye, customizable size of text).
 - PDF preview (important, but can be a different application).
