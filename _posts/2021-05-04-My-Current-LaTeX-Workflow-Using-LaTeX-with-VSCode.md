@@ -11,6 +11,12 @@ catalog: true
 
 I first heard of LaTeX back in high school when I began writing technical reports (lab reports, papers, notes, etc.). Back then, I was using the ever-so-common [Overleaf](https://www.overleaf.com/). I absolutely loved the PDF output produced, but I didn't like the difficulty of use (probably everyone's thoughts after using LaTeX for the first time). So, going forward, I mainly used Google Docs or Notion for writing most things (> 90%)  and only used LaTeX through Overleaf for writing things that needed to be formally typeset. Fast forward to this quarter, we are required to use LaTeX in my *CS 103: Mathematical Foundations for Computing* class for our problem set solutions. They gave us a starter template to use and already specified a bunch of commands for us so actually writing the TeX source code wasn't a problem. What was a problem though, was the overall LaTeX setup—namely the relatively slow speed it takes Overleaf to compile and update the document (and such speeds increase with the length of the document it seems). Additionally, Overleaf runs through the web - not natively - so you are trusting Overleaf to keep your files. 
 
+Side note: Does Jekyll support $\LaTeX$ math ($4x+5=9$)? What about equations:
+
+$$
+4x+5=10
+$$
+
 ## The solution
 
 **Overall, I needed these features:**
