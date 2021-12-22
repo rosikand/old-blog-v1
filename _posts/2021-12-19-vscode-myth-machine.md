@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use VS Code to Remotely Edit Files on Virtual Myth Machines for CS 107  
+header-style: text
 permalink: /vscode-myth-machine/
 ---
 
