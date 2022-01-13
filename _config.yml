@@ -11,6 +11,8 @@ baseurl: "/blog"                             # for example, '/blog' if your blog
 # Publish posts or collection documents with a future date.
 future: true
 
+theme: minima
+
 # SNS settings
 RSS: true
 github_username:    rosikand
